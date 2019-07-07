@@ -1,0 +1,61 @@
+%matplotlib inline
+# Dependencies and Setup
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+
+# File to Load (Remember to change these)
+city_data_to_load = "data/city_data.csv"
+ride_data_to_load = "data/ride_data.csv"
+
+# Read the City and Ride Data
+
+# Combine the data into a single dataset
+
+# Display the data table for preview
+
+# Obtain the x and y coordinates for each of the three city types
+
+# Build the scatter plots for each city types
+
+# Incorporate the other graph properties
+
+# Create a legend
+
+# Incorporate a text label regarding circle size
+
+# Save Figure
+ 
+  
+# Show plot
+plt.show()
+
+# Calculate Type Percents
+
+# Build Pie Chart
+
+# Save Figure
+ 
+   
+# Show Figure
+plt.show()
+
+# Calculate Ride Percents
+
+# Build Pie Chart
+
+# Save Figure
+ 
+   
+# Show Figure
+plt.show()
+
+# Calculate Driver Percents
+
+# Build Pie Charts
+
+# Save Figure
+ 
+   
+# Show Figure
+plt.show() 
