@@ -19,7 +19,7 @@ mongo = PyMongo(app)
 
 
 # Use flask_pymongo to set up mongo connection locally 
-# app.config["MONGO_URI"] = "mongodb://localhost:27017/mars_app"
+# app.config["MONGO_URI"] = "mongodb://localhost:5432/mars_app"
 # mongo = PyMongo(app)
 
 # Create route that renders index.html template and finds documents from mongo
